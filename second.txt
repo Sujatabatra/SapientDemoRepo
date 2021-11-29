@@ -1,3 +1,3 @@
 Hi I am second.txt file.
 for demonstrating git.
-and the conceots of branching
+and the concepts of branching
