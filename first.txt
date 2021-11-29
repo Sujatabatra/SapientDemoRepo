@@ -2,3 +2,5 @@ hello everyone, how are you doing?
 Today we are demonstrating git.
 adding few more lines...
 we will come back again
+adding new line from master branch
+
